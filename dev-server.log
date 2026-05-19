@@ -1,0 +1,51 @@
+
+> frontpulse@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.7:3000
+- Environments: .env.local
+✓ Ready in 4.4s
+Creating turbopack project {
+  dir: 'D:\\Antigravity Projects\\FrontPlus\\frontpulse',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 85s (next.js: 77s, application-code: 8.5s)
+ GET /login 200 in 2.4s (next.js: 2.1s, application-code: 287ms)
+ GET /signup 200 in 1261ms (next.js: 1151ms, application-code: 110ms)
+✓ Finished filesystem cache database compaction in 37.1s
+○ Compiling /onboarding ...
+ GET /signup 200 in 3.6s (next.js: 85ms, application-code: 3.5s)
+ GET /onboarding 200 in 48s (next.js: 48s, application-code: 85ms)
+✓ Finished filesystem cache database compaction in 14.3s
+✓ Finished filesystem cache database compaction in 15.9s
+✓ Compiled in 7.4s
+✓ Compiled in 809ms
+ GET /onboarding 200 in 4.3s (next.js: 2.2s, application-code: 2.1s)
+ GET /onboarding 200 in 3.7s (next.js: 726ms, application-code: 2.9s)
+ GET /onboarding 200 in 3.7s (next.js: 1087ms, application-code: 2.6s)
+ GET /onboarding 200 in 1134ms (next.js: 927ms, application-code: 207ms)
+ GET /onboarding 200 in 2.6s (next.js: 767ms, application-code: 1849ms)
+ GET /login 200 in 3.6s (next.js: 3.4s, application-code: 145ms)
+ GET /login 200 in 98ms (next.js: 34ms, application-code: 64ms)
+ GET /onboarding 200 in 131ms (next.js: 20ms, application-code: 111ms)
+ GET /onboarding 200 in 106ms (next.js: 7ms, application-code: 99ms)
+ GET /onboarding 200 in 50ms (next.js: 8ms, application-code: 43ms)
+✓ Compiled in 10.1s
+ GET /onboarding 200 in 772ms (next.js: 555ms, application-code: 218ms)
+ GET /onboarding 200 in 4.3s (next.js: 911ms, application-code: 3.4s)
+ GET /login 200 in 484ms (next.js: 330ms, application-code: 154ms)
+ GET /login 200 in 97ms (next.js: 15ms, application-code: 82ms)
+ GET /onboarding 200 in 172ms (next.js: 17ms, application-code: 155ms)
+ GET /onboarding 200 in 112ms (next.js: 7ms, application-code: 104ms)
+ GET /onboarding 200 in 68ms (next.js: 11ms, application-code: 57ms)
+ GET /login 200 in 204ms (next.js: 61ms, application-code: 143ms)
+ GET /login 200 in 74ms (next.js: 8ms, application-code: 66ms)
+ GET /onboarding 200 in 106ms (next.js: 9ms, application-code: 96ms)
+ GET /onboarding 200 in 82ms (next.js: 5ms, application-code: 77ms)
+ GET /onboarding 200 in 39ms (next.js: 5ms, application-code: 34ms)
+ GET /dashboard 200 in 1943ms (next.js: 1796ms, application-code: 148ms)
+ GET /dashboard 200 in 56ms (next.js: 7ms, application-code: 48ms)
